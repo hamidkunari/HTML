@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color:rgb(0, 0, 0);
+    margin: 12px auto 0px auto;
+  
+}
+h2{
+    margin-bottom: -15px;
+    color: black;
+    padding: 10px;
+}
+a{
+    background-color: rgb(198, 56, 70);
+    color:rgb(255, 255, 255);
+    border-radius: 4px;
+    padding: 12px;
+    text-decoration: none;
+    display: inline-block;
+   
+}
+header p{
+    margin: 20px 0;
+}
+p{
+    text-align: center;
+    color: rgb(15, 15, 15);
+    padding: 10px;
+}
+ol{
+    width: 500px;
+    margin: 0px auto 0px auto;
+}
+li{
+    list-style: none;
+    background-color: rgb(228, 122, 90);
+    color:white;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.5);
+
+}
